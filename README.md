@@ -81,9 +81,9 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/recharts/recharts
+2. Gráfico selecionado: ![Grafico Selecionado (Types: any vs. unknown)](grafico_selecionado.png)
+3. Explicação: O uso de 'any' no typescript é considerado um 'code smell', e pelo visto vem sendo refatorado no repositório, diminuindo seu uso e substituindo ou pela tipagem real ou por 'unknown' que requer uma validação muito mais detalhada no uso de variaveis sem tipo explícito.
 
 
 
